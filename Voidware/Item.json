@@ -21,10 +21,19 @@
       "Cooked Mackerel",
       "Cooked Swordfish",
       "Cooked Salmon",
+      "Cooked Lionfish",
+      "Cooked Lava Eel",
+      "Cooked Shark",
+      "Cooked Char",
       "Salmon",
       "Swordfish",
       "Eel",
-      "Mackerel"
+      "Mackerel",
+      "Lionfish",
+      "Lava Eel",
+      "Shark",
+      "Jellyfish",
+      "Char"
     ],
     "Health": [
       "Bandage",
@@ -81,6 +90,7 @@
     ],
     "Gun": [
       "Raygun",
+      "Laser Canon",
       "Revolver",
       "Rifle",
       "Tactical Shotgun",
