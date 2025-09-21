@@ -1,0 +1,29 @@
+{
+  "Old Axe": [
+    "Small Tree"
+  ],
+  "Good Axe": [
+    "Small Tree",
+    "Dead Tree1",
+    "Dead Tree2",
+    "Dead Tree3"
+  ],
+  "Strong Axe": [
+    "Small Tree",
+    "Dead Tree1",
+    "Dead Tree2",
+    "Dead Tree3",
+    "TreeBig1",
+    "TreeBig2",
+    "TreeBig3"
+  ],
+  "Chainsaw": [
+    "Small Tree",
+    "Dead Tree1",
+    "Dead Tree2",
+    "Dead Tree3",
+    "TreeBig1",
+    "TreeBig2",
+    "TreeBig3"
+  ]
+}
