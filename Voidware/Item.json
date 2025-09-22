@@ -110,6 +110,12 @@
       "Old Rod",
       "Good Rod",
       "Strong Rod"
+    ],
+    "Sack" : [
+        "Old Sack",
+        "Good Sack",
+        "Infernal Sack",
+        "Giant Sack"
     ]
   }
 }
