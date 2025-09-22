@@ -8,13 +8,13 @@ local CONFIG = {
     }
 }
 
-for _, Fetch in pairs(CONFIG.tab) do
+for key, Fetch in pairs(CONFIG.tab) do
     local success, response = pcall(function()
         return game:HttpGet(CONFIG.repo .. Fetch)
     end)
     if success then
         local data = game:GetService("HttpService"):JSONDecode(response)
-        table.insert(Fioso, data)
+        Fioso[key] = data -- save with key instead of array
     else
         warn("Failed to fetch " .. Fetch .. ": " .. tostring(response))
     end
